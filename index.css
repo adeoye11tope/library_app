@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    background-color: #66FF66;
+}
+#center{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    
+}
+dialog{
+    background-color: #6666FF;
+}
+label{
+    color:#000000;
+}
+#submitbutton{
+    color:#000000;
+    background-color: #6666FF;
+    border:1px solid #FFFFFF;
+    border-radius: 50px;
+}
+#displaytable{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 50px;
+}
+#addbook{
+    background-color: #6666FF;
+    border: 2px solid  #6666FF;
+    border-radius: 50px;
+}
